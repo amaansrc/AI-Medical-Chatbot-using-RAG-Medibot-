@@ -1,1 +1,1 @@
-# AI-Medical-Chatbot-using-RAG-Medibot-
+# AI Medical Chatbot using RAG (Medibot)
